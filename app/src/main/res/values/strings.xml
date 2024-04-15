@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Explore Lahore</string>
+    <!--    PLACE TYPES -->
+    <string name="cafes">Cafes</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shopping_malls">Shopping Malls</string>
+    <!-- PLACES -->
+    <string name="bae">Bae</string>
+    <string name="big_moes">Big Moe\'s</string>
+    <string name="coffee_bar">Coffee Bar</string>
+    <string name="coffee_planet">Coffee Planet</string>
+    <string name="emporium">Emporium</string>
+    <string name="espresso">Espresso</string>
+    <string name="fortress_square">Fortress Square</string>
+    <string name="gloria_jeans">Gloria Jeans</string>
+    <string name="gulberg_galleria">Gulberg Galleria</string>
+    <string name="jessies_burgers">Jessie\'s Burgers</string>
+    <string name="just_burgers">Just Burgers</string>
+    <string name="mall_of_lahore">Mall Of Lahore</string>
+    <string name="ministry_of_burgers">Ministry Of Burgers</string>
+    <string name="mocca_coffee">Mocca Coffee</string>
+    <string name="packages_mall">Packages Mall</string>
+    <string name="pasta_la_vista">Pasta La Vista</string>
+    <string name="second_cup">Second Cup</string>
+    <string name="the_coffee_bean_and_tea_leaf">The Coffee Bean and Tea Leaf</string>
+    <string name="xinhua_mall">Xinhua Mall</string>
+    <!-- PLACES DETAILS -->
+    <string name="d">Overlooking the magnificent Badshahi Masjid is a rooftop restaurant Andaaz that astonishes your senses as much as it does your taste buds.
+Andaaz restaurant really pays an ode to our heritage and tradition through its interior. The ground floor has historical artifacts relating to the British Raj, with artistic calligraphy, several old paintings and letters preserved to wow its customers. Leading to the rooftop is a majestic emerald green staircase – with levels between that have private dining halls for family bookings, etc. As soon as you reach the top you smell freshly made naans and rotis that will make your mouth water instantly.
+Andaaz restaurant rooftop is a throwback to our past, with wooden tables and chairs as the place is full during cold winter nights. Heated with small bonfires near each sitting, the ambiance during nighttime as the customers enjoy delicious spicy tikkas and kababs while looking at the marvel of the Badshahi Mosque is a beautiful experience all on its own.
+    </string>
+
+</resources>
